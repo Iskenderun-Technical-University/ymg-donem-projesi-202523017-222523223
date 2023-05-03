@@ -1,0 +1,3 @@
+--->Kullanıcı----> Cihazı Kontrol Eder / Yeni Cihaz Ekler / Cihazı Siler / Cihazı Paylaşır </br>
+--->Server ---> Cihazla İletişime Geçer / Kullanıcı Programıyla İletişime Geçer / Kullanıcıdan Gelen Komutları Cihaza İletir ----> Cihazdan Gelen Komutları Kullanıcı Programına İletir</br>
+--->Cihaz ---> Cihaz Server ve Kullanıcı İle İletişim Kurar ----> Cihaz Server ve Kullanıcıdan Gelen Komutları Uygular / Cihaz Server ve cihazdan Dönütleri Bekler.
