@@ -6,4 +6,5 @@
 5-Wifi ve kontrol işlemlerini WifiWizard2 ve parpa kütüphanelerinden destek alınmıştır.</br>
 6-https://play.google.com/store/apps/details?id=com.honoff.honoff&hl=bs&pli=1 adresinde uygulamanın bitmiş hali ve ilk sürümü yayınlanmıştır.</br>
 7-Program basid akış diagramı ilerleme akış yöntemiyle anlatılmıştır.</br>
-8-Program SQLite ile yerel bir veritabanı ile desteklenmiştir.
+8-Program SQLite ile yerel bir veritabanı ile desteklenmiştir.</br>
+9 Bu proje 222523223-202523017 numaralı Hüseyin AKYILDIZ ve Erda Deniz ALP tarafından geliştirilmiş olup gelişim aşamasındadır. 
