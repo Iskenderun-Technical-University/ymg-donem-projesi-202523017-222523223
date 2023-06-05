@@ -6,4 +6,4 @@
 5-Wifi ve kontrol işlemlerini WifiWizard2 ve parpa kütüphanelerinden destek alınmıştır.</br>
 6-Program basid akış diagramı ilerleme akış yöntemiyle anlatılmıştır.</br>
 7-Program SQLite ile yerel bir veritabanı ile desteklenmiştir.</br>
-
+8-202523017 Erda Deniz ALP
