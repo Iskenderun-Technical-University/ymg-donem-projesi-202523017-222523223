@@ -4,7 +4,6 @@
 3-Cordova tabanlı Hybrit bir yazılım ile cep telefonu uygulaması hazırlanmış olunup hem IOS hem Android olarak otomatik güncellemeye sahiptir.</br>
 4-Arayüz frameworkü Jquery-Mobil olarak kullanılmaktadır.</br>
 5-Wifi ve kontrol işlemlerini WifiWizard2 ve parpa kütüphanelerinden destek alınmıştır.</br>
-6-https://play.google.com/store/apps/details?id=com.honoff.honoff&hl=bs&pli=1 adresinde uygulamanın bitmiş hali ve ilk sürümü yayınlanmıştır.</br>
-7-Program basid akış diagramı ilerleme akış yöntemiyle anlatılmıştır.</br>
-8-Program SQLite ile yerel bir veritabanı ile desteklenmiştir.</br>
+6-Program basid akış diagramı ilerleme akış yöntemiyle anlatılmıştır.</br>
+7-Program SQLite ile yerel bir veritabanı ile desteklenmiştir.</br>
 
