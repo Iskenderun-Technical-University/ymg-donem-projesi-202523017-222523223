@@ -13,7 +13,12 @@
         uyari("Naya Uyarı- İşlemleri yapınız", "Lütfen İnternet Bağlantınızı Açınız");
         return false;
     }
+    
     else {
+        return true;
+    }
+         if (states[networkState] == 'yes') {
+        uyari("Naya Uyarı- İşlemleri yapınız", "Lütfen İnternet Bağlantınızı Açınız");
         return true;
     }
 }
